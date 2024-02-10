@@ -1,7 +1,9 @@
 ### Hi there 👋 
-  My name is Rafael, I'm currently entusiast of technology and student passionate about programming.
-  - I'm currently learning about React (and React-Native)  
-      
+ ## ** About Me ** ##
+  - My name is Rafael, I'm currently entusiast of technology and student passionate about programming.
+  - I'm currently learning about React (and React-Native)
+  - I like computer sciencie, literature and resistance training. 
+  
 <!--
 **farxC/farxC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
