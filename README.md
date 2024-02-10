@@ -5,8 +5,10 @@
   - I like computer sciencie, literature and resistance training.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,python,ts,vscode)](https://skillicons.dev)
-  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,ts,vscode,react-native)](https://skillicons.dev)
+
+## I code on
+[![My Skills](https://skillicons.dev/icons?i=java,flutter,react,flutter,c#&perline=3)](https://skillicons.dev)
 <!--
 **farxC/farxC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
