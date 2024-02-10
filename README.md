@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋 
+  My name is Rafael, I'm currently entusiast of technology and student passionate about programming.
+  - I'm currently learning about React (and React-Native)  
+      
 <!--
 **farxC/farxC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
