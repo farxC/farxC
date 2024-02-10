@@ -1,8 +1,11 @@
 ### Hi there 👋 
- ## ** About Me ** ##
+ ## ** About Me ** 
   - My name is Rafael, I'm currently entusiast of technology and student passionate about programming.
   - I'm currently learning about React (and React-Native)
-  - I like computer sciencie, literature and resistance training. 
+  - I like computer sciencie, literature and resistance training.
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,python,ts,vscode)](https://skillicons.dev)
   
 <!--
 **farxC/farxC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
