@@ -7,7 +7,7 @@
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,ts,vscode,react,git)](https://skillicons.dev)
 
-## I code on
+## I already programmed
 [![My Skills](https://skillicons.dev/icons?i=java,flutter,c&perline=3)](https://skillicons.dev)
 
 ## To Improve
