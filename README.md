@@ -1,6 +1,6 @@
-### Hi there 👋 
+![image](https://github.com/farxC/farxC/assets/83882306/c1f07cbd-681b-4908-87ff-3f717d6aa192)### Hi there 👋 
  ## ** About Me ** 
-  - My name is Rafael, I'm technology entusiast and passionate about programming. My interest's about tech comes from very early time from my life(my 9yo) and since then I continually learning about the systems that circulate the Computer Sciencie and Web today.
+  - My name is Rafael, I'm technology enthusiast and passionate about programming. My interest in tech comes from very early times from my life(my 9yo) and since then I continually learning about systems that circulate the Computer Sciencie and Web today.
   - I'm currently learning React (and React-Native)
   - I like computer sciencie, literature and resistance training.
 
