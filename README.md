@@ -1,6 +1,6 @@
 ### Hi there 👋 
  ## ** About Me ** 
-  - My name is Rafael, I'm currently entusiast of technology and student passionate about programming. My interest's about tech are from very long time (my 9yo) and since them I continually learned about the systems that     circulate the Computer Sciencie and Web today.
+  - My name is Rafael, I'm technology entusiast and passionate about programming. My interest's about tech are from very long time (my 9yo) and since them I continually learned about the systems that     circulate the Computer Sciencie and Web today.
   - I'm currently learning about React (and React-Native)
   - I like computer sciencie, literature and resistance training.
 
