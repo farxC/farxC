@@ -4,8 +4,19 @@
   - I'm currently learning React (and React-Native)
   - I like computer sciencie, literature and resistance training.
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,ts,nodejs,vscode,react,git)](https://skillicons.dev)
+## Status
+<div>
+  <table style="margin: 0 auto;" align="center">
+    <tr>
+      <td>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=farxc&theme=react&hide_border=false"/>
+      </td>
+      <td>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farxc&layout=compact&theme=react&count_private=true"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## I have already programmed
 [![My Skills](https://skillicons.dev/icons?i=java,flutter,c&perline=3)](https://skillicons.dev)
