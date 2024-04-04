@@ -1,6 +1,7 @@
+# Rafael Nunes
 ### Hi there 👋 
  ## ** About Me ** 
-  - My name is Rafael, I'm technology enthusiast and passionate about programming. My interest in tech comes from very early times from my life(my 9yo) and since then I continually learning about systems that circulate the Computer Sciencie and Web today.
+  - I'm technology enthusiast and passionate about programming. My interest in tech comes from very early times from my life(my 9yo) and since then I continually learning about systems that circulate the Computer Sciencie and Web today.
   - I'm currently learning React (and React-Native)
   - I like computer sciencie, literature and resistance training.
 
@@ -18,8 +19,6 @@
   </table>
 </div>
 
-## I have already programmed
-[![My Skills](https://skillicons.dev/icons?i=java,flutter,c&perline=3)](https://skillicons.dev)
 
 ## To Improve
 - English
