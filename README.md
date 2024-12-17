@@ -2,8 +2,8 @@
 ### Hi there 👋 
  ##  About Me  
   - I'm technology enthusiast and passionate about programming. My interest in tech comes from very early times from my life(my 9yo) and since then I continually learning about systems that circulate the Computer Sciencie and Web today.
-  - I'm currently learning Typescript, Node, React (and React-Native)
-  - I like computer sciencie, literature and resistance training.
+  - I'm currently learning Typescript, Python, Node, React (and React-Native)
+  - I like computer science, literature, and resistance training.
 
 ## Status
 <div align="left">
