@@ -1,5 +1,6 @@
 # Rafael Nunes
 ### From a certain point forward there is no return. This is the point that must be reached.
+~ Franz Kafka
  ##  About Me  
   - Passionate about tech. 
   - Computer science, literature, and resistance training.
