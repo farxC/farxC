@@ -7,7 +7,7 @@
 
 ###
 
-<h4 align="right"> Contact me here</h4>
+<h4 align="right"> Contact me here.</h4>
 
 <div align="right">
   <a href="https://www.linkedin.com/in/rafaelornunes/" target="_blank">
