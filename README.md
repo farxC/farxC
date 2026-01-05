@@ -9,7 +9,6 @@
 
 - 🔍 Forever curious and always learning  
 - 💻 Passionate about technology, problem-solving, and innovation  
-- 📚 Lifelong reader
 
 
 ---
